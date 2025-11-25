@@ -1,4 +1,3 @@
-print("Bot berhasil jalan dari GitHub Actions!")
 import requests
 import os
 
